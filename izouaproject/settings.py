@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'livereload',
     'izouapp',
     'phonenumber_field',
-    "accounts",
 ]
 
 MIDDLEWARE = [
